@@ -12,7 +12,7 @@
 Regulated markets. On-prem hardware. Provenance and audit trails. The constraint that makes "just call the API" a non-answer is usually the entire problem.
 
 Founder/CEO at **[staqs.io](https://staqs.io)** — and still the person writing the code. Twenty years in, one NASDAQ exit, and my week is mostly a terminal.
-
+<!--
 ---
 
 ## What I'm building
@@ -57,7 +57,7 @@ The contribution graph on this page is real production work — my own company p
 What I'm putting here: the things that cost me a day and that nobody had written down. The Prisma singleton that silently leaks connections in production under Next.js standalone. The n8n workflow edit that never reaches the runtime. The billing limit that 403s your package installs while the metadata endpoint happily keeps returning 200.
 
 Less "10 tips." More "here's the exact failure mode and the two hours of my life it took."
-
+-->
 <!-- Activity graph depends on an external service. If it breaks, check:
      https://github.com/Ashutosh00710/github-readme-activity-graph
      (self-hostable on Vercel). -->
