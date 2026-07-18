@@ -9,10 +9,10 @@
   <a href="mailto:eric@staqs.io"><img src="https://img.shields.io/badge/email-eric@staqs.io-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Regulated markets. On-prem hardware. Provenance and audit trails. The constraint that makes "just call the API" a non-answer is usually the entire problem.
+<!--Regulated markets. On-prem hardware. Provenance and audit trails. The constraint that makes "just call the API" a non-answer is usually the entire problem.
 
 Founder/CEO at **[staqs.io](https://staqs.io)** — and still the person writing the code. Twenty years in, one NASDAQ exit, and my week is mostly a terminal.
-<!--
+
 ---
 
 ## What I'm building
