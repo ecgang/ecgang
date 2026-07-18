@@ -1,6 +1,6 @@
 <h1 align="center">Eric Gang</h1>
 
-<p align="center"><b>AI agent systems for places where the data can't leave the building — and you still have to prove what happened.</b></p>
+<!--<p align="center"><b>AI agent systems for places where the data can't leave the building — and you still have to prove what happened.</b></p>-->
 
 <p align="center">
   <a href="https://staqs.io"><img src="https://img.shields.io/badge/staqs.io-founder%2Fceo-1f6feb?style=flat-square" alt="staqs.io"></a>
